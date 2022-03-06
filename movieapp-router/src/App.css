@@ -1,0 +1,76 @@
+.logo {
+  width: 70px;
+  height: 50px;
+}
+/* .navbarButtonSearch {
+  background-color: #eef1f5;
+} */
+.movieCard {
+  /* margin: 30px; */
+  /* display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap; */
+  margin-top: 30px;
+}
+/* div.card {
+  display: flex;
+  height: 600px;
+  width: 300px;
+  justify-content: space-around;
+} */
+/* .moviesList {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  margin: 30px;
+} */
+.AddMovie .search {
+  margin-top: 30px;
+}
+
+#btnAdd {
+  background-color: rgb(21, 25, 29);
+}
+#reset-button {
+  background-color: rgb(21, 25, 29);
+  color: white;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 30px;
+  margin-left: 40px;
+  margin-right: 40px;
+}
+/* .searchF {
+ input.me-22.form-control {
+  width: 207px !important;
+  border-color: #0d6efd;
+
+  margin: 30px;
+
+  padding: 0.375rem 0.75rem;
+  font-size: 1rem;
+  line-height: 1.5;
+  background-color: rgb(21, 25, 29);
+  background-clip: padding-box;
+  -webkit-appearance: none;
+  appearance: none;
+  border-radius: 0.25rem;
+} */
+.MovieDescription {
+  display: flex;
+  justify-content: space-around;
+}
+
+.movieList {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.search {
+  display: flex;
+  align-items: center;
+}
